@@ -22,7 +22,7 @@ C-Link was developed as part of the iOS Foundation Cohort 19 program at Bina Nus
 - Axel Nino Nakata - Technical Developer
 - Jehoiada Wong - Technical Developer
 
-## Acknowledgements
+## Acknowledgements 🌟
 
 We would like to express our gratitude to the following individuals and organizations:
 
@@ -34,3 +34,8 @@ We would like to express our gratitude to the following individuals and organiza
 ## Feedback 📩
 
 We welcome any feedback or suggestions for improving C-Link. If you encounter any issues or have ideas for new features, please don't hesitate to [contact us](axel.nakata@binus.ac.id).
+
+## Screenshots 🖼️
+![Collab](./C-link%20prototype/collab.png)
+![Explore](./C-link%20prototype/explore.png)
+![Profile](./C-link%20prototype/profile.png)
